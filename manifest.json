@@ -1,7 +1,7 @@
 {
   "name": "Mutlu Akü Yönetici Portalı",
   "short_name": "Mutlu Admin",
-  "start_url": "/",
+  "start_url": "/SahaZiyaretAdmin/",
   "display": "standalone",
   "background_color": "#0f141c",
   "theme_color": "#d32f2f",
